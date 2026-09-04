@@ -18,6 +18,14 @@ Indian Institute of Technology Indore (IIT Indore) | Student ID: 230005010
 **Tableau HR Analytics Project:**
 ![HR Analytics Dashboard](tableau_dashboard.png)
 
+**SQL Queries:**
+![SQL Queries HR Analytics](sql_queries.png)
+
+**SQL Power BI Test Document:**
+![SQL Power BI Test](sql_powerbi_test.png)
+
+**SQL Tableau Test Document:**
+![SQL Tableau Test HR Analytics](sql_tableau_test.png)
 
 **Excel HR Analytics Dashboard:**
 ![HR Analytics Excel Dashboard](excel_dashboard.png)
