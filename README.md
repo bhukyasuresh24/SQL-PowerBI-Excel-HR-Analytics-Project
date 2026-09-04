@@ -15,17 +15,11 @@ Indian Institute of Technology Indore (IIT Indore) | Student ID: 230005010
 **Power BI HR Analytics Dashboard:**
 ![HR Analytics Power BI Dashboard](powerbi_dashboard.png)
 
-**Tableau HR Analytics Project:**
-![HR Analytics Dashboard](tableau_dashboard.png)
-
 **SQL Queries:**
 ![SQL Queries HR Analytics](sql_queries.png)
 
 **SQL Power BI Test Document:**
 ![SQL Power BI Test](sql_powerbi_test.png)
-
-**SQL Tableau Test Document:**
-![SQL Tableau Test HR Analytics](sql_tableau_test.png)
 
 **Excel HR Analytics Dashboard:**
 ![HR Analytics Excel Dashboard](excel_dashboard.png)
@@ -33,7 +27,7 @@ Indian Institute of Technology Indore (IIT Indore) | Student ID: 230005010
 
 **Project Overview**
 
-This project utilized four essential data analysis tools: Power BI, Tableau Desktop, SQL, and Excel.
+This project utilized three essential data analysis tools: Power BI, SQL, and Excel.
 
 **Data**
 
@@ -90,15 +84,10 @@ Visualizations display attrition rates based on gender and different age groups.
 Constructed a dynamic and interactive dashboard.
 The emphasis was on data integration and the creation of visually appealing, informative visualizations.
 
-**Tableau**
-
-Created the dashboard in Tableau with custom charts.
-Developed complex calculations and insightful trend analyses.
-
 **SQL**
 
 Employed SQL queries to extract key metrics.
-Created test documents to demonstrate data validation data in Tableau and Power Bi using SQL queries
+Created test documents to demonstrate data validation data in Power BI using SQL queries
 
 **Excel** 
 
