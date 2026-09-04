@@ -22,22 +22,22 @@
 ## Preview of Projects
 
 **Power BI HR Analytics Dashboard:**
-![HR Analytics Power BI Dashboard](https://github.com/ekaterinakham/PowerBI-Tableau-SQL-Excel-HR-Analytics-Project/assets/144201262/eaa60708-2dc7-4185-a719-7b9fdd3e0bc1)
+![HR Analytics Power BI Dashboard](assets/powerbi_dashboard.png)
 
 **Tableau HR Analytics Project:**
-![HR Analytics Dashboard](https://github.com/ekaterinakham/PowerBI-Tableau-SQL-Excel-HR-Analytics-Project/assets/144201262/0d853a88-0651-4eae-a282-3b03abe5ed40)
+![HR Analytics Tableau Dashboard](assets/tableau_dashboard.png)
 
 **SQL Queries:**
-![SQL Queries HR Analytics](https://github.com/ekaterinakham/PowerBI-Tableau-SQL-Excel-HR-Analytics-Project/assets/144201262/b3ff0499-8fa8-4357-8a5a-1a36a0832e98)
+![SQL Queries HR Analytics](assets/sql_queries.png)
 
 **SQL Power BI Test Document:**
-![SQL Power BI Test](https://github.com/ekaterinakham/PowerBI-Tableau-SQL-Excel-HR-Analytics-Project/assets/144201262/40d831f7-b6b9-4c20-9b68-16443c456f25)
+![SQL Power BI Test](assets/sql_powerbi_test.png)
 
 **SQL Tableau Test Document:**
-![SQL Tableau Test HR Analytics](https://github.com/ekaterinakham/PowerBI-Tableau-SQL-Excel-HR-Analytics-Project/assets/144201262/4140fb78-7148-450a-bfd8-ac15e255e4ec)
+![SQL Tableau Test HR Analytics](assets/sql_tableau_test.png)
 
 **Excel HR Analytics Dashboard:**
-![HR Analytics Excel Dashboard](https://github.com/ekaterinakham/PowerBI-Tableau-SQL-Excel-HR-Analytics-Project/assets/144201262/61adb174-ab1f-4b95-8bb5-c5840c6f058e)
+![HR Analytics Excel Dashboard](assets/excel_dashboard.png)
 
 ---
 
@@ -122,6 +122,6 @@ This portfolio project serves as a testament to the ability to harness data effe
 
 ---
 
-> **Submitted by:** Bhukya Suresh | IIT Indore | Student ID: 230005010  
-> 📧 suryammu24@gmail.com | mems230005010@iiti.ac.in  
+> **Submitted by:** Bhukya Suresh | IIT Indore | Student ID: 230005010
+> 📧 suryammu24@gmail.com | mems230005010@iiti.ac.in
 > 🔗 [LinkedIn](https://www.linkedin.com/in/bhukyasuresh3824/) | [GitHub](https://github.com/bhukyasuresh24)
